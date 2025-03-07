@@ -1,5 +1,3 @@
-# 2 Pointer approach
-
 class Solution:
     def maxArea(self, height: list[int]) -> int:
         self.height = height
