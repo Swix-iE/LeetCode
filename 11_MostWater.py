@@ -18,7 +18,7 @@ class Solution:
         return max_area
     
     
-# User input for testing
+
 height = list(map(int, input().split()))
 result = Solution().maxArea(height)
 print(result)
